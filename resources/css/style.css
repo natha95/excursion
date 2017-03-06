@@ -1,0 +1,32 @@
+h1 .mainheader {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h1 .second,
+h1 .third {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+}
